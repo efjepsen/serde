@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 //! # Serde
 //!
 //! Serde is a framework for ***ser***ializing and ***de***serializing Rust data
